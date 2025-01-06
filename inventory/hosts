@@ -1,3 +1,29 @@
-[DEBIAN_QUAL]
-deb1 
-deb2
+[HAPROXY_STAGING]
+ qdeb1
+ qdeb2
+
+[HAPROXY_PROD]
+pdeb1
+pdeb2
+
+[APACHES_STAGING]
+qdeb1
+qdeb2
+qdeb3
+qdeb4
+qdeb5
+
+[APACHES_PROD]
+pdeb1
+pdeb2
+pdeb3
+pdeb4
+pdeb5
+
+[MYSQL_STAGING]
+qdeb1
+qdeb2
+
+[MYSQL_PROD]
+pdeb1
+pdeb2
